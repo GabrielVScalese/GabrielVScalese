@@ -1,5 +1,5 @@
 # Bem vindo ao meu perfil! 👋
-Meu nome é Gabriel, tenho 17 anos e sou estudante de TI no Colégio Técnico de Campinas (COTUCA), sendo preferencialmente um
+Meu nome é Gabriel, sou estudante de TI na Universidade Estadual de Campinas no campus de Limeira, sendo preferencialmente um
 desenvolvedor Back-End.
 
 ### Linguagens e ferramentas que já usei: 
